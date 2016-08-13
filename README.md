@@ -1,6 +1,14 @@
-androrat
+androrat stealth
 ========
-
+# Changes:
+ - Configured for a hardcoded IP address and stealth:
+  - Remove user interface, app launches and immediatly exits
+  - Remove icon from app drawer after first run. 
+    - The service will start after each reboot
+    - The user is totally ignorant that the app is there at all
+    - 
+androrat
+=========
 Remote Administration Tool for Android
 
 Androrat is a client/server application developed in Java Android for the client side and in Java/Swing for the Server.
