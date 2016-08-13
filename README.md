@@ -6,7 +6,7 @@ androrat stealth
   - Remove icon from app drawer after first run. 
    - The service will start after each reboot
    - The user is totally ignorant that the app is there at all
-   - 
+
 androrat
 =========
 Remote Administration Tool for Android
